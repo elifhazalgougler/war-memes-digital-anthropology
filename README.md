@@ -1,4 +1,4 @@
-# war-memes-digital-anthropology  
+# war-memes-computational-anthropology 
 _First project in a digital/computational anthropology series_
 
 This project adopts an experimental anthropological approach to digital data, using computational methods to explore patterns in social media and meme-based communication.
