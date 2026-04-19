@@ -1,7 +1,7 @@
 # war-memes-computational-anthropology 
 _First project in a digital/computational anthropology series_
 
-This project adopts an experimental anthropological approach to digital data, using computational methods to explore patterns in social media and meme-based communication.
+This project adopts an experimental anthropological approach to digital data, using computational methods to explore patterns in social media and meme-based communication. Phase 3 is currently incomplete and will be developed to incorporate an ethnographic analysis of user comments on memes.
 
 To understand how digital practices operate during times of crisis, looking at memes is like looking into an area that seems small on the surface but actually contains vast layers of meaning. At first glance, this dataset might seem to confirm a simple idea: people react to crises. But closer inspection reveals a far more complex understanding of the production process.
 
